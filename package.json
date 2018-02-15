@@ -19,9 +19,9 @@
   "dependencies": {
     "falcor-hapi": "netflix/falcor-hapi",
     "falcor-router-demo": "1.0.3",
-    "hapi": "^10.5.0",
-    "inert": "^3.2.0",
-    "bassmaster": "1.5.1",
+    "hapi": "^17.0.0",
+    "inert": "^5.0.0",
+    "bassmaster": "3.0.0",
     "snyk-demo-child": "0.0.1",
     "azure-mgmt-storage": "^0.9.16"
   }
